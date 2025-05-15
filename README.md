@@ -9,6 +9,14 @@ Google Assistant와 TTS 기능을 통해 모든 기능을 음성으로 제어할
 
 ---
 
+## 🏁 프로젝트 결과 및 자료
+
+- [YouTube 시연 영상](https://youtu.be/GVSaJLW1eDQ)
+- [프로젝트 보고서 보기 (PDF)](./report.pdf)
+- 제 21회 임베디드 SW 경진대회 대상(산업통상자원부 장관상) 수상
+
+---
+
 ## 📌 주요 기능
 
 - ESP32-CAM으로 식품 이미지 촬영 및 서버 전송
@@ -49,9 +57,3 @@ ESP32-CAM → Flask 서버 → 이미지 저장 및 처리<br>
 - `website/`: webOS 기반의 웹 애플리케이션 코드
 
 ---
-
-## 🏁 프로젝트 결과 및 자료
-
-- [YouTube 시연 영상](https://youtu.be/GVSaJLW1eDQ)
-- [프로젝트 보고서 보기 (PDF)](./report.pdf)
-- 제 21회 임베디드 SW 경진대회 대상(산업통상자원부 장관상) 수상
